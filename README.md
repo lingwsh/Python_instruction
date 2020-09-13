@@ -16,5 +16,7 @@ This is a great DTU class about data analyze by python. You can learn some plot 
 #  [A Whirlwind Tour of Python](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb)
 Another great online python learning materials!
 
+# [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+An excellent python online free book! It introduces python modules in detail, like NumPy, Pandas and so on.
 # Do not hisitate, start you python journey from now!
 
