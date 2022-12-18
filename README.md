@@ -1,7 +1,7 @@
 # Python_instruction
 Python learning materials
 
-# python grammer
+# Python basic grammar
 This website [CaiNiao Chinese version](https://www.runoob.com/python3/python3-tutorial.html) is good. You can also use English version [W3C SCHOOL](https://www.w3schools.com/python/).
 
 # Standford CS231 [Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
