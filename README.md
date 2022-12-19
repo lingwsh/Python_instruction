@@ -18,5 +18,7 @@ Another great online python learning materials!
 
 # [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 An excellent python online free book! It introduces python modules in detail, like NumPy, Pandas and so on.
+# IDE（Integrated development environment）
+[Pycharm](https://www.jetbrains.com/pycharm/download/#section=mac)
 # Do not hisitate, start you python journey from now!
 
